@@ -1,0 +1,1 @@
+print ('WE, THE PEOPLE OF INDIA,\n'+ ' ' * 6 +'having solemnly resolved to constitute India into a SOVEREIGN, !\n\t'+' '*4+'SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC\n\t'+' '*5+'and to secure to all its citizens:')
